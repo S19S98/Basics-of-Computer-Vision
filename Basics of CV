@@ -1,0 +1,28 @@
+Basic Computer Vision Questions?
+	1) What the object is in the Image?
+	2) Where the object is located in the Image?
+	3) How to use the info?
+
+Challenges:
+	1) Noise in the Image
+	2) Lighting/Scale/Orientation
+	3) Lack if Data
+
+GrayScale Image --> Matrix of Digit with range 0-255
+
+Coloured Image --> Three Planes each made of RED GREEN BLUE colors with matrix of digit of range 0-255 
+	
+Origin will always start from TOP LEFT CORNER
+
+Stages of Computer Vision:
+	1) Capture
+	2) Pre-processing -- filtering
+	3) Feature Extraction -- Countour, Edge
+	4) Build ML Model --Supervised, Unsupervised
+	5) Real World manipulation -- Tracking, Path planning
+
+Whereas Image Processing consists of:
+	1) Capture
+	2) Pre-processing -- filtering
+	3) Feature Extraction -- Countour, Edge
+
